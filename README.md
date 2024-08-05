@@ -73,7 +73,7 @@ void main() {
 ## Additional Information
 
 -   **Contributing**: Contributions are welcome! Please check the [contributing guidelines](CONTRIBUTING.md) for more information on how to contribute to this project.
--   **Issues**: If you encounter any issues or have feature requests, please [open an issue](https://github.com/yourusername/blj_search/issues) on GitHub.
--   **Contact**: For any questions or suggestions, you can reach out to the maintainers through the [contact page](https://github.com/yourusername/blj_search#contact).
+-   **Issues**: If you encounter any issues or have feature requests, please [open an issue](https://github.com/khusantoy/blj-search/issues) on GitHub.
+-   **Contact**: For any questions or suggestions, you can reach out to the maintainers through the [contact page](https://github.com/khusantoy/blj-search#contact).
 
 Thank you for using `BljSearch`!
