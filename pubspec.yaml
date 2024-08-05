@@ -2,6 +2,8 @@ name: blj_search
 description: Binary search, Linear search, and Jump search algorithms for finding elements in lists.
 version: 1.0.0
 repository: https://github.com/khusantoy/blj-search
+homepage: https://github.com/khusantoy/blj-search
+license: MIT
 
 environment:
   sdk: ^3.4.4
